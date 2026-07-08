@@ -69,6 +69,4 @@ Run multiple instances of `client.py` to connect multiple users.
 - Multithreading
 - PyCryptodome
 
-## Authors
 
-Group Project
